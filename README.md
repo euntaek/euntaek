@@ -1,6 +1,6 @@
 ## 안녕하세요! 은택입니다. 👋
 
-Junior Front End Developer
+Junior Web Developer
 
 ![](https://komarev.com/ghpvc/?username=euntaek&style=flat-square)
 
